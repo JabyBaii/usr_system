@@ -27,7 +27,7 @@
 5. 不要想一次就把功能写完整，先实现，再调优
 """
 # from sys_info import _init
-from sys_info import *
+# from sys_info import *
 from user_add import *
 from user_change import *
 from user_del import *
